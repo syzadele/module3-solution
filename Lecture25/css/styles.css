@@ -1,0 +1,24 @@
+*{
+	box-sizing: border-box;	
+	font-family: 'Arial', 'Helvetica', sans-serif;
+}
+.navbar-nav {
+    margin: 0px -15px;
+    border: solid grey 0.5px;
+}
+
+.drop-down-item {
+	color: white;
+}
+
+
+.navbar-default .navbar-nav>li>a {
+    background-color: black;
+    border: solid grey 0.5px;
+}
+
+.custom-div {
+	background-color: grey;
+}
+
+
